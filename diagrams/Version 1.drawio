@@ -14,7 +14,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Mj5zhdz5Dw9lq1LwjGDs" name="Definitions ">
-    <mxGraphModel dx="858" dy="642" grid="1" gridSize="15.748" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="343" dy="257" grid="1" gridSize="15.748" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,9 +98,6 @@
         </mxCell>
         <mxCell id="vhPUnrvrT-tTzhHRilB1-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Rubik;fontSize=32;fontColor=default;labelBackgroundColor=default;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;curved=0;" value="Color&amp;nbsp; Code" vertex="1">
           <mxGeometry height="62.992" width="251.968" x="62" y="188.97399999999993" as="geometry" />
-        </mxCell>
-        <mxCell id="iTkrQMXrh-PujBtX1WA7-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=8;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;curved=0;" value="*Can be MOSI or MISO" vertex="1">
-          <mxGeometry height="15.748" width="62.992" x="817.9000000000001" y="299.208" as="geometry" />
         </mxCell>
         <mxCell id="vb7zBEfnEux6n6e46ZcV-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=12;fontFamily=Rubik;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRubik;curved=0;" value="5V" vertex="1">
           <mxGeometry height="15.748" width="62.992" x="755.0000000000001" y="551.1780000000001" as="geometry" />
@@ -1221,7 +1218,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1Di4t7BB1vsfE_XqkVFJ" name="Page-6">
-    <mxGraphModel dx="858" dy="642" grid="1" gridSize="15.748" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="490" dy="367" grid="1" gridSize="15.748" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
