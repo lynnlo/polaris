@@ -1284,7 +1284,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1Di4t7BB1vsfE_XqkVFJ" name="Boards">
-    <mxGraphModel dx="1073" dy="803" grid="1" gridSize="15.748" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="715" dy="535" grid="1" gridSize="15.748" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1494,6 +1494,42 @@
             <mxPoint x="437.01000000000005" y="433.07" as="sourcePoint" />
             <mxPoint x="507.87000000000006" y="433.07" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FxkoCSBICLGjwBcKx3x9-2" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;fontFamily=Rubik;fontSource=https://fonts.googleapis.com/css?family=Rubik;rounded=0;curved=0;" value="" vertex="1">
+          <mxGeometry height="188.98" width="377.96" x="125.98" y="566.93" as="geometry" />
+        </mxCell>
+        <mxCell id="FxkoCSBICLGjwBcKx3x9-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#eeeeee;strokeColor=#36393d;container=0;rounded=0;glass=0;shadow=0;fontFamily=Rubik;fontSource=https://fonts.googleapis.com/css?family=Rubik;curved=0;" value="" vertex="1">
+          <mxGeometry height="66.929" width="66.929" x="187.00400000000002" y="627.9591666666668" as="geometry" />
+        </mxCell>
+        <mxCell id="FxkoCSBICLGjwBcKx3x9-8" edge="1" parent="1" source="FxkoCSBICLGjwBcKx3x9-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;fillColor=#dae8fc;startArrow=classic;startFill=1;" target="FxkoCSBICLGjwBcKx3x9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FxkoCSBICLGjwBcKx3x9-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;container=0;direction=south;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Rubik;fontSource=https://fonts.googleapis.com/css?family=Rubik;curved=0;" value="PDI" vertex="1">
+          <mxGeometry height="39.37" width="15.748" x="125.98" y="566.9300000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="FxkoCSBICLGjwBcKx3x9-10" parent="1" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;container=0;fontSize=8;fontFamily=Rubik;fontSource=https://fonts.googleapis.com/css?family=Rubik;rounded=0;curved=0;" value="&lt;div&gt;3.3V&lt;/div&gt;5V" vertex="1">
+          <mxGeometry height="31.496" width="31.496" x="283.4680000000001" y="724.416" as="geometry" />
+        </mxCell>
+        <mxCell id="FxkoCSBICLGjwBcKx3x9-11" edge="1" parent="1" source="FxkoCSBICLGjwBcKx3x9-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;fillColor=#ffe6cc;startArrow=classic;startFill=1;" target="FxkoCSBICLGjwBcKx3x9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FxkoCSBICLGjwBcKx3x9-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;container=0;direction=south;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Rubik;fontSource=https://fonts.googleapis.com/css?family=Rubik;curved=0;" value="PW" vertex="1">
+          <mxGeometry height="15.748" width="39.37" x="187" y="566.9300000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="FxkoCSBICLGjwBcKx3x9-13" edge="1" parent="1" source="FxkoCSBICLGjwBcKx3x9-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=none;endSize=8;fillColor=#ffe6cc;startArrow=classic;startFill=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endFill=0;" target="FxkoCSBICLGjwBcKx3x9-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="253.9" y="708.6700000000001" />
+            </Array>
+            <mxPoint x="209" y="582.21" as="sourcePoint" />
+            <mxPoint x="189" y="627.21" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxkoCSBICLGjwBcKx3x9-15" edge="1" parent="1" source="FxkoCSBICLGjwBcKx3x9-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;fillColor=#dae8fc;startArrow=classic;startFill=1;" target="FxkoCSBICLGjwBcKx3x9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FxkoCSBICLGjwBcKx3x9-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;container=0;direction=south;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Rubik;fontSource=https://fonts.googleapis.com/css?family=Rubik;curved=0;" value="PDI" vertex="1">
+          <mxGeometry height="39.37" width="15.748" x="125.98" y="627.96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
